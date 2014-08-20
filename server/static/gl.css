@@ -1,0 +1,116 @@
+body
+{
+    font-family: STHeiti, Heiti TC;
+    font-size: 15px;
+    background-color: #00408e;
+    border-radius: 10px;
+
+    margin: 10px 10px 10px 10px;
+}
+
+body .content
+{
+    color: #001950;
+    background-color: #d5f3ff;
+    line-height: 30px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.table-content
+{
+    text-align: center;
+}
+
+.table-content h3
+{
+    color: #00408e;
+    margin: 4px;
+}
+
+.table-content a:visited
+{
+}
+
+.table-content li
+{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.table-content li a
+{
+    display: inline-block;
+    width: 80px;
+    background-color: #00408e;
+
+    line-height: 40px;
+    color: white;
+    text-decoration: none;
+
+    border-radius: 8px;
+}
+
+.table-content li a:visited
+{
+    color: white;
+    text-decoration: none;
+}
+
+.title
+{
+    color: white;
+    font-size: 120%;
+    margin-bottom: 10px;
+}
+
+.item-title
+{
+    color: #b00000;
+    margin-bottom: 5px;
+}
+
+.item-content
+{
+    margin-bottom: 15px;
+}
+
+.item-content ul li img
+{
+    vertical-align: middle;
+}
+
+.item-content table tr td
+{
+    border-radius: 2px;
+    text-align: center;
+    max-width: 500px;
+}
+
+.item-content table tr:nth-child(even)
+{
+    background-color: #e6e6e6;
+}
+
+.item-content table tr:nth-child(odd)
+{
+    background-color: #d2d2d2;
+}
+
+.back
+{
+    color: gray;
+    font-size: 120%;
+    top: 5px;
+    right: 10px;
+    position: fixed;
+
+    background-color: #00408e;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.back a:visited
+{
+    color: lightblue;
+}

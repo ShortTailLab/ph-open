@@ -1,0 +1,23 @@
+info face="Molot" size=48 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=55 base=47 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="Molot_48_red.png"
+chars count=16
+char id=32     x=248   y=49    width=0     height=0     xoffset=0     yoffset=45    xadvance=24    page=0 chnl=0 letter="space"
+char id=33     x=107   y=49    width=22    height=45    xoffset=1     yoffset=0     xadvance=14    page=0 chnl=0 letter="!"
+char id=43     x=154   y=49    width=34    height=35    xoffset=1     yoffset=5     xadvance=26    page=0 chnl=0 letter="+"
+char id=45     x=212   y=49    width=34    height=18    xoffset=1     yoffset=14    xadvance=26    page=0 chnl=0 letter="-"
+char id=46     x=190   y=49    width=20    height=20    xoffset=2     yoffset=25    xadvance=13    page=0 chnl=0 letter="."
+char id=48     x=40    y=2     width=34    height=45    xoffset=2     yoffset=0     xadvance=28    page=0 chnl=0 letter="0"
+char id=49     x=131   y=49    width=21    height=45    xoffset=2     yoffset=0     xadvance=14    page=0 chnl=0 letter="1"
+char id=50     x=76    y=2     width=34    height=45    xoffset=1     yoffset=0     xadvance=26    page=0 chnl=0 letter="2"
+char id=51     x=112   y=2     width=34    height=45    xoffset=1     yoffset=0     xadvance=27    page=0 chnl=0 letter="3"
+char id=52     x=2     y=2     width=36    height=45    xoffset=1     yoffset=0     xadvance=28    page=0 chnl=0 letter="4"
+char id=53     x=148   y=2     width=34    height=45    xoffset=2     yoffset=0     xadvance=27    page=0 chnl=0 letter="5"
+char id=54     x=184   y=2     width=34    height=45    xoffset=2     yoffset=0     xadvance=27    page=0 chnl=0 letter="6"
+char id=55     x=74    y=49    width=31    height=45    xoffset=0     yoffset=0     xadvance=22    page=0 chnl=0 letter="7"
+char id=56     x=220   y=2     width=34    height=45    xoffset=2     yoffset=0     xadvance=28    page=0 chnl=0 letter="8"
+char id=57     x=2     y=49    width=34    height=45    xoffset=1     yoffset=0     xadvance=27    page=0 chnl=0 letter="9"
+char id=63     x=38    y=49    width=34    height=45    xoffset=0     yoffset=0     xadvance=25    page=0 chnl=0 letter="?"
+kernings count=2
+kerning first=52 second=55 amount=-3
+kerning first=55 second=52 amount=-1

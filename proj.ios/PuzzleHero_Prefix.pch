@@ -1,0 +1,38 @@
+//
+// Prefix header for all source files of the 'HelloWorld' target in the 'HelloWorld' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#ifdef __cplusplus
+
+#include <string>
+#include <memory>
+#include <vector>
+#include <list>
+#include <map>
+#include <algorithm>
+#include <cocos2d.h>
+#include <boost/lexical_cast.hpp>
+#include <boost/tuple/tuple.hpp>
+#include <boost/bind.hpp>
+#include <boost/function.hpp>
+#include <boost/shared_ptr.hpp>
+#include <boost/make_shared.hpp>
+#include <boost/enable_shared_from_this.hpp>
+#include <boost/move/move.hpp>
+#include <boost/container/map.hpp>
+#include <boost/container/vector.hpp>
+#include <boost/container/set.hpp>
+#include <boost/date_time/posix_time/posix_time.hpp>
+#include <boost/date_time/local_time_adjustor.hpp>
+
+#include "cocos2dx_extensions.h"
+#include "extensions/utils.h"
+#include <rapidjson/rapidjson.h>
+#include <rapidjson/document.h>
+
+#endif

@@ -1,0 +1,23 @@
+info face="DFKanTingLiu-XB-HK-BF" size=100 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=100 base=80 scaleW=512 scaleH=256 pages=1 packed=0
+page id=0 file="KTL_100_yellow.png"
+chars count=19
+char id=32     x=429   y=95    width=0     height=0     xoffset=0     yoffset=80    xadvance=50    page=0 chnl=0 letter="space"
+char id=40     x=151   y=95    width=40    height=89    xoffset=18    yoffset=2     xadvance=50    page=0 chnl=0 letter="("
+char id=41     x=193   y=95    width=40    height=89    xoffset=1     yoffset=2     xadvance=50    page=0 chnl=0 letter=")"
+char id=42     x=235   y=95    width=54    height=88    xoffset=2     yoffset=2     xadvance=50    page=0 chnl=0 letter="*"
+char id=43     x=94    y=95    width=55    height=90    xoffset=2     yoffset=1     xadvance=50    page=0 chnl=0 letter="+"
+char id=45     x=373   y=95    width=54    height=22    xoffset=2     yoffset=36    xadvance=50    page=0 chnl=0 letter="-"
+char id=46     x=346   y=95    width=25    height=23    xoffset=2     yoffset=63    xadvance=50    page=0 chnl=0 letter="."
+char id=47     x=2     y=2     width=55    height=91    xoffset=2     yoffset=0     xadvance=50    page=0 chnl=0 letter="/"
+char id=48     x=59    y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="0"
+char id=49     x=57    y=95    width=35    height=91    xoffset=12    yoffset=-5    xadvance=50    page=0 chnl=0 letter="1"
+char id=50     x=451   y=2     width=53    height=91    xoffset=3     yoffset=-5    xadvance=50    page=0 chnl=0 letter="2"
+char id=51     x=115   y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="3"
+char id=52     x=171   y=2     width=54    height=91    xoffset=3     yoffset=-5    xadvance=50    page=0 chnl=0 letter="4"
+char id=53     x=227   y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="5"
+char id=54     x=2     y=95    width=53    height=91    xoffset=3     yoffset=-5    xadvance=50    page=0 chnl=0 letter="6"
+char id=55     x=283   y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="7"
+char id=56     x=339   y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="8"
+char id=57     x=395   y=2     width=54    height=91    xoffset=2     yoffset=-5    xadvance=50    page=0 chnl=0 letter="9"
+char id=63     x=291   y=95    width=53    height=88    xoffset=3     yoffset=-2    xadvance=50    page=0 chnl=0 letter="?"

@@ -1,0 +1,39 @@
+*.swp
+*.h~
+*.cpp~
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+#*.so
+
+# Compiled Static libraries
+#*.lai
+#*.la
+#*.a
+
+.DS_Store
+Thumbs.db
+
+Resources/iphone
+
+xcuserdata
+*.xcworkspace
+
+*.suo
+*.log
+*.err
+proj.android/obj
+proj.android/assets
+proj.android/gen
+proj.android/out
+proj.android/.idea/workspace.xml
+proj.android/.idea/task.xml
+proj.android/.idea/dictionaries
+
+gdbserver
+gdb.setup
+

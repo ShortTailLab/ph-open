@@ -1,0 +1,18 @@
+info face="DFSumo-W12-WINP-RKSJ-H" size=22 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=27 base=19 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="Sumo_red_22.png"
+chars count=14
+char id=32     x=74    y=60    width=0     height=0     xoffset=0     yoffset=24    xadvance=7     page=0 chnl=0 letter="space"
+char id=43     x=54    y=2     width=24    height=27    xoffset=0     yoffset=-2    xadvance=16    page=0 chnl=0 letter="+"
+char id=45     x=58    y=60    width=14    height=12    xoffset=0     yoffset=6     xadvance=6     page=0 chnl=0 letter="-"
+char id=46     x=44    y=60    width=12    height=13    xoffset=0     yoffset=12    xadvance=5     page=0 chnl=0 letter="."
+char id=48     x=80    y=2     width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="0"
+char id=49     x=26    y=60    width=16    height=27    xoffset=5     yoffset=-2    xadvance=16    page=0 chnl=0 letter="1"
+char id=50     x=2     y=2     width=24    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="2"
+char id=51     x=2     y=31    width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="3"
+char id=52     x=28    y=2     width=24    height=27    xoffset=0     yoffset=-2    xadvance=16    page=0 chnl=0 letter="4"
+char id=53     x=2     y=60    width=22    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="5"
+char id=54     x=27    y=31    width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="6"
+char id=55     x=52    y=31    width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="7"
+char id=56     x=77    y=31    width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="8"
+char id=57     x=102   y=31    width=23    height=27    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="9"

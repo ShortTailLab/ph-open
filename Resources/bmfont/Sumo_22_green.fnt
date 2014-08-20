@@ -1,0 +1,21 @@
+info face="DFSumo-W12-WINP-RKSJ-H" size=22 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=23 base=19 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="Sumo_22_green.png"
+chars count=17
+char id=32     x=64    y=52    width=0     height=0     xoffset=0     yoffset=20    xadvance=7     page=0 chnl=0 letter="space"
+char id=42     x=86    y=27    width=19    height=23    xoffset=0     yoffset=-2    xadvance=15    page=0 chnl=0 letter="*"
+char id=43     x=46    y=2     width=20    height=23    xoffset=0     yoffset=-2    xadvance=16    page=0 chnl=0 letter="+"
+char id=45     x=52    y=52    width=10    height=8     xoffset=0     yoffset=6     xadvance=6     page=0 chnl=0 letter="-"
+char id=46     x=42    y=52    width=8     height=9     xoffset=0     yoffset=12    xadvance=5     page=0 chnl=0 letter="."
+char id=47     x=16    y=52    width=14    height=22    xoffset=0     yoffset=-1    xadvance=10    page=0 chnl=0 letter="/"
+char id=48     x=65    y=27    width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="0"
+char id=49     x=2     y=52    width=12    height=23    xoffset=5     yoffset=-2    xadvance=16    page=0 chnl=0 letter="1"
+char id=50     x=2     y=2     width=20    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="2"
+char id=51     x=68    y=2     width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="3"
+char id=52     x=24    y=2     width=20    height=23    xoffset=0     yoffset=-2    xadvance=16    page=0 chnl=0 letter="4"
+char id=53     x=107   y=27    width=18    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="5"
+char id=54     x=89    y=2     width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="6"
+char id=55     x=2     y=27    width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="7"
+char id=56     x=23    y=27    width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="8"
+char id=57     x=44    y=27    width=19    height=23    xoffset=1     yoffset=-2    xadvance=16    page=0 chnl=0 letter="9"
+char id=58     x=32    y=52    width=8     height=17    xoffset=0     yoffset=4     xadvance=5     page=0 chnl=0 letter=":"

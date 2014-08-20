@@ -47,10 +47,10 @@ Feel free to write your own server. All communications are in plain text json fo
 ### LICENSE
 
 Copyright 2014 深圳市烁动科技有限公司.
-All art resources(under Resources/ folder) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. 
-All source code excluding 3rd party code is licensed under the MIT license.
-Both licesnes are included in the repository.
-
-版权所有 2014  深圳市烁动科技有限公司。
-所有美术资源是基于 Creative Commons Attribution-NonCommercial 4.0 International 许可发布。
-除去第三方外的所有代码是基于 MIT License 许可发布。
+All art resources(under Resources/ folder) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International license.    
+All source code excluding 3rd party code is licensed under the MIT license.    
+Both licesnes are included in the repository.    
+    
+版权所有 2014  深圳市烁动科技有限公司。    
+所有美术资源是基于 Creative Commons Attribution-NonCommercial 4.0 International 许可发布。    
+除去第三方外的所有代码是基于 MIT License 许可发布。    

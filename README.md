@@ -11,7 +11,7 @@ Send me email if you're interested: **a.banknote@gmail.com**
 
 We are a small company based in Shenzhen, China. Beef hotpot is great around here.
 
-我们是深圳的一觉手游小团队，正在招聘优秀的**程序/美术/策划**，有兴趣入伙，请邮件我们 **a.banknote@gmail.com / 723600882@qq.com ** 
+我们是深圳的一觉手游小团队，正在招聘优秀的**程序/美术/策划**，有兴趣入伙，请邮件我们 **a.banknote@gmail.com / 723600882@qq.com** 
 
 ### BUILD THE GAME
 

@@ -1,3 +1,22 @@
+## 《群侠转》- 开放源代码和美术资源
+
+《群侠转》是深圳烁动在2013年初上线的一款三消卡牌游戏。现在我们决定把游戏代码和美术资源开放给大家，欢迎随意修改，自搭私服。《群侠转》的质量和完成度在目前开源的手游项目应该算数一数二了。不过由于项目一直比较赶，又是多人合作写的，代码风格水准不入眼还请轻喷。
+
+注意！我司正在积极寻找牛逼的程序/美术/策划，欢迎投递简历至: 
+y@shorttaillab.com / 657235341@qq.com
+
+相对于原版，我们做了一些调整：
+* 关闭了全部的付费接口。
+* 渠道SDK，原来有几十个，开源版中全部删除了，感觉真是好清爽！
+* 第三方登陆因为要用到我们自己的账号秘钥，所以全部关闭了，需要的填上自己的秘钥就能用。
+* 现在编译运行可以直接连接运营中的服务器，方便大家试玩。游戏没有开放服务器代码，因为配置需要导入大量的策划表格，这些不放出服务器也用不了。
+
+游戏是基于cocos2dx-2.2的，还有若干第三方库，都已包含在打包内。下载后可以直接编译iOS和Android版本。
+
+祝大家撸的愉快！
+
+再次，手游求职的朋友们，欢迎来信：  y@shorttaillab.com / 657235341@qq.com
+
 ## PuzzleHero 
 
 We first released PuzzleHero to the AppStore early 2013. Then the publisher edition launched mid-2013. Now the game is not exactly making us money so we decided, heck, why not make it open source and maybe something good will come out of it. So we are releasing the full client source code and art assets to the community.
@@ -11,7 +30,7 @@ Send me email if you're interested: **a.banknote@gmail.com**
 
 We are a small company based in Shenzhen, China. Beef hotpot is great around here.
 
-我们是深圳的一觉手游小团队，正在招聘优秀的**程序/美术/策划**，有兴趣入伙，请邮件我们 **a.banknote@gmail.com / 723600882@qq.com ** 
+我们是深圳的一觉手游小团队，正在招聘优秀的**程序/美术/策划**，有兴趣入伙，请邮件我们 **a.banknote@gmail.com / 723600882@qq.com** 
 
 ### BUILD THE GAME
 
@@ -46,11 +65,11 @@ Feel free to write your own server. All communications are in plain text json fo
 
 ### LICENSE
 
-Copyright 2014 深圳市烁动科技有限公司.
-All art resources(under Resources/ folder) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. 
-All source code excluding 3rd party code is licensed under the MIT license.
-Both licesnes are included in the repository.
-
-版权所有 2014  深圳市烁动科技有限公司。
-所有美术资源是基于 Creative Commons Attribution-NonCommercial 4.0 International 许可发布。
-除去第三方外的所有代码是基于 MIT License 许可发布。
+Copyright 2014 深圳市烁动科技有限公司.    
+All art resources(under Resources/ folder) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International license.    
+All source code excluding 3rd party code is licensed under the MIT license.    
+Both licesnes are included in the repository.    
+    
+版权所有 2014  深圳市烁动科技有限公司。    
+所有美术资源是基于 Creative Commons Attribution-NonCommercial 4.0 International 许可发布。    
+除去第三方外的所有代码是基于 MIT License 许可发布。    

@@ -14,6 +14,9 @@ y@shorttaillab.com / 657235341@qq.com
 
 游戏是基于cocos2dx-2.2的，还有若干第三方库，都已包含在打包内。下载后可以直接编译iOS和Android版本。
 
+游戏代码是基于MIT LICESNE发布，可以随意修改随意使用。  
+美术资源是基于CC Non-Commercial发布，请勿用作其他商业用途。
+
 祝大家撸的愉快！
 
 再次，手游求职的朋友们，欢迎来信：  y@shorttaillab.com / 657235341@qq.com

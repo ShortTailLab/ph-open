@@ -29,12 +29,7 @@ Feel free to do whatever with the source code, but please do not use the art ass
 
 The game uses cocos2d-x 2.2, and supports both iOS and Android. cocos2dx is already included in the release. The game is largely written C++ with a few lua scripts. It's a typical Puzzle & Dragons style game with a few spins and real-time PvP support. The code is not in its best style and we are aware of that, but still you should find it fairly readable.
 
-Btw, **we are hiring** experienced **game developers/artists/designers**.
-Send me email if you're interested: **a.banknote@gmail.com**
-
-We are a small company based in Shenzhen, China. Beef hotpot is great around here.
-
-我们是深圳的一觉手游小团队，正在招聘优秀的**程序/美术/策划**，有兴趣入伙，请邮件我们 **a.banknote@gmail.com / 723600882@qq.com** 
+Btw, we are a small company based in Shenzhen, China. **We are hiring** experienced **game developers/artists/designers**. Send me an email if you're interested: **a.banknote@gmail.com/723600882@qq.com**
 
 ### BUILD THE GAME
 

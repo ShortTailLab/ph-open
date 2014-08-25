@@ -23,11 +23,11 @@ y@shorttaillab.com / 657235341@qq.com
 
 ## PuzzleHero 
 
-We first released PuzzleHero to the AppStore early 2013. Then the publisher edition launched mid-2013. Now the game is not exactly making us money so we decided, heck, why not make it open source and maybe something good will come out of it. So we are releasing the full client source code and art assets to the community.
+We first released PuzzleHero to the AppStore in early 2013. Then the publisher edition came mid-2013. Now the game is not exactly making us money so we decided, heck, why not make it open source and maybe something good will come out of it. So we are releasing the full client source code and art assets to the community.
 
-Feel free to do whatever with the source code, but please do not use the art assets for other commercial products. See end of this note for licensing details.
+Feel free to do whatever with the source code, but please do not use the art assets in other commercial products. See end of this note for licensing details.
 
-The game uses cocos2d-x 2.2, and supports both iOS and Android. cocos2dx is already included in the release. The game is largely written C++ with a few lua scripts. It's a typical Puzzle & Dragons style game with a few spins and real-time PvP support. The code is not in its best style and we are aware of that, but still you should find it fairly readable.
+The game uses Cocos2d-x 2.2 and supports both iOS and Android. Cocos2d-x is already included in the release. The game is largely written in C++ with a few lua scripts. It's a typical Puzzle & Dragons style game with a few spins and real-time PvP support. The code is not in its best style and we are aware of that, but still, you should find it fairly readable.
 
 Btw, we are a small company based in Shenzhen, China. **We are hiring** experienced **game developers/artists/designers**. Send me an email if you're interested: **a.banknote@gmail.com/723600882@qq.com**
 
@@ -51,14 +51,14 @@ IntelliJ project:  proj.android/
 ```
 
 ### RESOURCES
-Resources are located in Resources/ folder. We do some post-processing and packing to the resources but we choose not elaborate it here. All resource processing scripts are located in the same folder so feel free to dig into it.
+Resources are located in Resources/ folder. We do some post-processing to the resources but we will not elaborate the steps here. All resource processing scripts are located in the same folder so feel free to dig into it.
 
 ### GAME SERVER
 The server code is not released but the default project connects to our server and gets you in game smoothly.
 
 We do not provide the server code for two reasons.
-1. the server setup is pretty invovled.
-2. Even after the server setup, it still needs to import a dozen of excel forms to be of any use but we have no plan to open source our desgin docs.
+1. the server setup is pretty invovled.  
+2. Even after the server setup, it still needs to import a dozen excel forms to be of any use but we have no plan to open source our desgin docs.  
 
 Feel free to write your own server. All communications are in plain text json format.
 

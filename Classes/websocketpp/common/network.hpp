@@ -50,6 +50,9 @@ inline bool is_little_endian() {
 #define TYP_SMLE 1
 #define TYP_BIGE 2
 
+#undef htonll;
+#undef ntohll;
+
 inline uint64_t htonll(uint64_t src) {
     static int typ = TYP_INIT;
     unsigned char c;

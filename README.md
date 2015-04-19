@@ -19,8 +19,6 @@ a.banknote@gmail.com / 723600882@qq.com
 
 祝大家撸的愉快！
 
-再次，手游求职的朋友们，欢迎来信：  y@shorttaillab.com / 657235341@qq.com
-
 ## PuzzleHero 
 
 We first released PuzzleHero to the AppStore in early 2013. Then the publisher edition came mid-2013. Now the game is not exactly making us money so we decided, heck, why not make it open source. At least it's good for the karma, and hopefully something good will come out of it. So we are releasing the full client source code and art assets to the community.
